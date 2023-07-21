@@ -1,4 +1,5 @@
 # やったこと
+<<<<<<< HEAD
 Dockerを使ってApacheサーバを利用してみました。   
 下記のリンクを参考してやってみました。   
 https://www.youtube.com/watch?v=I66s-6NzkL0
@@ -79,3 +80,7 @@ docker stop <コンテナー名>
 
 <img width="700" src="https://github.com/reytech-co-jp/onigiri/assets/100908505/4f0411e4-164c-4df9-89e4-d54d1e5e170d">
 
+=======
+下記のリンクを参考してやってみました。   
+https://www.youtube.com/watch?v=I66s-6NzkL0
+>>>>>>> fb8c1ec9f7265bb2b5a885e05b9fbbd0048107b6
